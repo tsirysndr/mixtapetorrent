@@ -29,6 +29,8 @@
 
 This is a command line interface and Rust library for MixtapeTorrent.
 
+<img width="800" src="./preview.svg">
+
 ## Installation
 
 Simply run:
