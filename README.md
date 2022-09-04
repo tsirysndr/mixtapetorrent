@@ -36,7 +36,7 @@ This is a command line interface and Rust library for [MixtapeTorrent](http://ww
 Simply run:
 
 ```bash
-$ cargo install mixtaptorrent
+$ cargo install mixtapetorrent
 ```
 
 ## Usage
