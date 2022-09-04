@@ -27,7 +27,7 @@
 </a>
 </p>
 
-This is a command line interface and Rust library for MixtapeTorrent.
+This is a command line interface and Rust library for [MixtapeTorrent](http://www.mixtapetorrent.com/).
 
 <img width="800" src="./preview.svg">
 
