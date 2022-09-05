@@ -39,6 +39,13 @@ Simply run:
 $ cargo install mixtapetorrent
 ```
 
+### macOS/Linux
+```bash
+brew install tsirysndr/tap/mixtapetorrent
+```
+
+Or download the latest release for your platform from [here](https://github.com/tsirysndr/mixtapetorrent/releases).
+
 ## Usage
 
 ```
