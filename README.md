@@ -44,7 +44,7 @@ $ cargo install mixtapetorrent
 brew install tsirysndr/tap/mixtapetorrent
 ```
 
-Or download the latest release for your platform from [here](https://github.com/tsirysndr/mixtapetorrent/releases).
+Or download the latest release for your platform [here](https://github.com/tsirysndr/mixtapetorrent/releases).
 
 ## Usage
 
